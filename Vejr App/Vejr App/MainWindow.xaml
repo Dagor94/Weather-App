@@ -16,9 +16,21 @@
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
-
-
             </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Button x:Name="GetWeatherButton" Grid.Column="3" Grid.Row="2" Content="Get Weather" Click="GetWeatherButton_Click"></Button>
+            <Label x:Name="cityNameLabel" Grid.Column="0"></Label>
+            <Label x:Name="temperatureLabel" Grid.Column="0" Grid.Row="1"></Label>
+            <Label x:Name="weatherDescriptionLabel" Grid.Column="0" Grid.Row="2"></Label>
+
+
         </Grid>
     </Border>
 </Window>

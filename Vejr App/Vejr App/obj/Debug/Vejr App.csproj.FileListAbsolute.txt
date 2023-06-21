@@ -1,0 +1,19 @@
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\bin\Debug\Vejr App.exe.config
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\bin\Debug\Vejr App.exe
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\bin\Debug\Vejr App.pdb
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App.csproj.AssemblyReference.cache
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App.csproj.SuggestedBindingRedirects.cache
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\MainWindow.g.cs
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\App.g.cs
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App_MarkupCompile.cache
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App_MarkupCompile.lref
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\MainWindow.baml
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App.g.resources
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr_App.Properties.Resources.resources
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App.csproj.GenerateResource.cache
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App.csproj.CoreCompileInputs.cache
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App.csproj.CopyComplete
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App.exe
+C:\Users\phill\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\Vejr App\Vejr App\obj\Debug\Vejr App.pdb
