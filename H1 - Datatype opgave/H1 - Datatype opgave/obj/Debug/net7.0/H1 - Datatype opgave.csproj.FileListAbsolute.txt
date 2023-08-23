@@ -1,0 +1,15 @@
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\bin\Debug\net7.0\H1 - Datatype opgave.exe
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\bin\Debug\net7.0\H1 - Datatype opgave.deps.json
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\bin\Debug\net7.0\H1 - Datatype opgave.runtimeconfig.json
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\bin\Debug\net7.0\H1 - Datatype opgave.dll
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\bin\Debug\net7.0\H1 - Datatype opgave.pdb
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\H1 - Datatype opgave.csproj.AssemblyReference.cache
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\H1 - Datatype opgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\H1 - Datatype opgave.AssemblyInfoInputs.cache
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\H1 - Datatype opgave.AssemblyInfo.cs
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\H1 - Datatype opgave.csproj.CoreCompileInputs.cache
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\H1 - Datatype opgave.dll
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\refint\H1 - Datatype opgave.dll
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\H1 - Datatype opgave.pdb
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\H1 - Datatype opgave.genruntimeconfig.cache
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - Datatype opgave\H1 - Datatype opgave\obj\Debug\net7.0\ref\H1 - Datatype opgave.dll

@@ -27,7 +27,7 @@ namespace Vejr_App
 
         private async void GetWeatherButton_Click(object sender, RoutedEventArgs e) {
             string apiKey = "ee9567c7599dc716faa331deb5653851";
-            string city = "København";
+            string city = "København"; // Skal ændres så den får input fra et "søgefelt" istedet for.
             string apiUrl = $"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={apiKey}";
 
             using (HttpClient client = new HttpClient()) {

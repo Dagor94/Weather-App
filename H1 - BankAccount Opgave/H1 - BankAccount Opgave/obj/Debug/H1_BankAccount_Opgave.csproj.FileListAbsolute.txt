@@ -1,0 +1,8 @@
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - BankAccount Opgave\H1 - BankAccount Opgave\bin\Debug\H1 - BankAccount Opgave.exe.config
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - BankAccount Opgave\H1 - BankAccount Opgave\bin\Debug\H1 - BankAccount Opgave.exe
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - BankAccount Opgave\H1 - BankAccount Opgave\bin\Debug\H1 - BankAccount Opgave.pdb
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - BankAccount Opgave\H1 - BankAccount Opgave\obj\Debug\H1_BankAccount_Opgave.csproj.AssemblyReference.cache
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - BankAccount Opgave\H1 - BankAccount Opgave\obj\Debug\H1_BankAccount_Opgave.csproj.SuggestedBindingRedirects.cache
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - BankAccount Opgave\H1 - BankAccount Opgave\obj\Debug\H1_BankAccount_Opgave.csproj.CoreCompileInputs.cache
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - BankAccount Opgave\H1 - BankAccount Opgave\obj\Debug\H1 - BankAccount Opgave.exe
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\H1 - BankAccount Opgave\H1 - BankAccount Opgave\obj\Debug\H1 - BankAccount Opgave.pdb

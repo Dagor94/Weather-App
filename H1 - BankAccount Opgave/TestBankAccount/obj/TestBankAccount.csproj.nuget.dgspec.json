@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\TestBankAccount\\TestBankAccount.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\H1 - BankAccount Opgave\\H1_BankAccount_Opgave.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\H1 - BankAccount Opgave\\H1_BankAccount_Opgave.csproj",
+        "projectName": "H1_BankAccount_Opgave",
+        "projectPath": "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\H1 - BankAccount Opgave\\H1_BankAccount_Opgave.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\TestBankAccount\\TestBankAccount.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\TestBankAccount\\TestBankAccount.csproj",
+        "projectName": "TestBankAccount",
+        "projectPath": "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\TestBankAccount\\TestBankAccount.csproj",
+        "packagesPath": "C:\\Users\\Philip Kjær\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\TestBankAccount\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Philip Kjær\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\H1 - BankAccount Opgave\\H1_BankAccount_Opgave.csproj": {
+                "projectPath": "C:\\Users\\Philip Kjær\\OneDrive - TECHCOLLEGE\\Programmering\\WPF - Opgaver - Thomas\\Den Store Opgave\\Weather App\\H1 - BankAccount Opgave\\H1 - BankAccount Opgave\\H1_BankAccount_Opgave.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\DatabaseOpgave - h1\DatabaseOpgave - h1\obj\Debug\net7.0\DatabaseOpgave - h1.csproj.AssemblyReference.cache
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\DatabaseOpgave - h1\DatabaseOpgave - h1\obj\Debug\net7.0\DatabaseOpgave - h1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\DatabaseOpgave - h1\DatabaseOpgave - h1\obj\Debug\net7.0\DatabaseOpgave - h1.AssemblyInfoInputs.cache
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\DatabaseOpgave - h1\DatabaseOpgave - h1\obj\Debug\net7.0\DatabaseOpgave - h1.AssemblyInfo.cs
+C:\Users\Philip Kjær\OneDrive - TECHCOLLEGE\Programmering\WPF - Opgaver - Thomas\Den Store Opgave\Weather App\DatabaseOpgave - h1\DatabaseOpgave - h1\obj\Debug\net7.0\DatabaseOpgave - h1.csproj.CoreCompileInputs.cache
